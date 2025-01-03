@@ -60,29 +60,29 @@ This section houses several powerful features:
 
 ### 🌟 Login Page and Register Page  
 <p>
-  <img src="assets/screenshots/login.jpg" alt="Login Page" width="200" />
-  <img src="assets/screenshots/register.jpg" alt="Register Page" width="200" />
+  <img src="assets/screenshots/login.jpg" alt="Login Page" width="200  style="margin-right: 20px;" />
+  <img src="assets/screenshots/register.jpg" alt="Register Page" width="200  style="margin-right: 20px;" />
 </p>
 
-### 🌟 Home Page and Utility Page  
+### 🌟 Utility Page and Home Page  
 
 <p>
-  <img src="assets/screenshots/home.jpg" alt="Home Page" width="200" />
-  <img src="assets/screenshots/utility.jpg" alt="Utility Page" width="200" />
+  <img src="assets/screenshots/home.jpg" alt="Home Page" width="200  style="margin-right: 20px;" />
+  <img src="assets/screenshots/utility.jpg" alt="Utility Page" width="200  style="margin-right: 20px;" />
 </p>
 
 ### 🌟 Ai Chat Page and Encryption & Decrytion Page  
 
 <p>
-  <img src="assets/screenshots/ai.jpg" alt="Ai Chat Page" width="200" />
-  <img src="assets/screenshots/encrypt.jpg" alt="Encrypt & Decrypt Page" width="200" />
+  <img src="assets/screenshots/ai.jpg" alt="Ai Chat Page" width="200  style="margin-right: 20px;" />
+  <img src="assets/screenshots/encrypt.jpg" alt="Encrypt & Decrypt Page" width="200  style="margin-right: 20px;" />
 </p>
 
 ### 🌟 Text2Pdf & ViceVersa Page and Word Dash Game Page  
 
 <p>
-  <img src="assets/screenshots/txt2pdf.jpg" alt="Text2pdf Page" width="200" />
-  <img src="assets/screenshots/game.jpg" alt="wordDash game Page" width="200" />
+  <img src="assets/screenshots/txt2pdf.jpg" alt="Text2pdf Page" width="200  style="margin-right: 20px;" />
+  <img src="assets/screenshots/game.jpg" alt="wordDash game Page" width="200  style="margin-right: 20px;" />
 </p>
 
 
