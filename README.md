@@ -60,8 +60,13 @@ This section houses several powerful features:
 
 ### 🌟 Home Page and Utility Page  
 <p align="center">
-  <img src="assets/screenshots/home_page.png" alt="Home Page" width="200" />
-  <img src="assets/screenshots/utility_page.png" alt="Utility Page" width="200" />
+  <img src="assets/screenshots/login.jpg" alt="Home Page" width="200" />
+  <img src="assets/screenshots/register.jpg" alt="Utility Page" width="200" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/login.jpg" alt="Home Page" width="200" />
+  <img src="assets/screenshots/register.jpg" alt="Utility Page" width="200" />
 </p>
 
 ### 🚀 Feature Highlights  
