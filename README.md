@@ -58,26 +58,29 @@ This section houses several powerful features:
 
 ## 📸 Screenshots
 
+### 🌟 Login Page and Register Page  
+<p>
+  <img src="assets/screenshots/login.jpg" alt="Login Page" width="200" />
+  <img src="assets/screenshots/register.jpg" alt="Register Page" width="200" />
+</p>
+
 ### 🌟 Home Page and Utility Page  
-<p align="center">
+
+<p>
   <img src="assets/screenshots/login.jpg" alt="Home Page" width="200" />
   <img src="assets/screenshots/register.jpg" alt="Utility Page" width="200" />
 </p>
 
-<p align="center">
-  <img src="assets/screenshots/login.jpg" alt="Home Page" width="200" />
-  <img src="assets/screenshots/register.jpg" alt="Utility Page" width="200" />
+### 🌟 Ai Chat Page and Encryption & Decrytion Page  
+
+<p>
+  <img src="assets/screenshots/login.jpg" alt="Ai Chat Page" width="200" />
+  <img src="assets/screenshots/register.jpg" alt="Encrypt & Decrypt Page" width="200" />
 </p>
 
-### 🚀 Feature Highlights  
-<p align="center">
-  <img src="assets/screenshots/registered_user_chat.png" alt="Registered User Chat" width="200" />
-  <img src="assets/screenshots/ai_chat_page.png" alt="AI Chat Page" width="200" />
-</p>
-<p align="center">
-  <img src="assets/screenshots/scheduled_message.png" alt="Scheduled Message" width="200" />
-  <img src="assets/screenshots/word_dash_game.png" alt="Word Dash Game" width="200" />
-</p>
+
+
+
 
 
 
