@@ -66,7 +66,7 @@ This section houses several powerful features:
 ![Registered User Chat](assets/screenshots/registered_user_chat.png)
 
 **AI Chat Page**  
-![AI Chat Page](assets/screenshots/ai_chat_page.png)
+![AI Chat Page](assets/screenshots/ai(2).jpg)
 
 
 ---
