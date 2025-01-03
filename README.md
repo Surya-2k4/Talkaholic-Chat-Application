@@ -61,7 +61,7 @@ This section houses several powerful features:
 ### 🌟 Login Page and Register Page  
 <p>
   <img src="assets/screenshots/login.jpg" alt="Login Page" width="200  style="margin-right: 20px;" />
-  <img src="assets/screenshots/register.jpg" alt="Register Page" width="200  style="margin-right: 20px;" />
+  <img src="assets/screenshots/register.jpg" alt="Register Page" width="200" />
 </p>
 
 ### 🌟 Utility Page and Home Page  
