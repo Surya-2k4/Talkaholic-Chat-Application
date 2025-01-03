@@ -67,15 +67,22 @@ This section houses several powerful features:
 ### 🌟 Home Page and Utility Page  
 
 <p>
-  <img src="assets/screenshots/login.jpg" alt="Home Page" width="200" />
-  <img src="assets/screenshots/register.jpg" alt="Utility Page" width="200" />
+  <img src="assets/screenshots/home.jpg" alt="Home Page" width="200" />
+  <img src="assets/screenshots/utility.jpg" alt="Utility Page" width="200" />
 </p>
 
 ### 🌟 Ai Chat Page and Encryption & Decrytion Page  
 
 <p>
-  <img src="assets/screenshots/login.jpg" alt="Ai Chat Page" width="200" />
-  <img src="assets/screenshots/register.jpg" alt="Encrypt & Decrypt Page" width="200" />
+  <img src="assets/screenshots/ai.jpg" alt="Ai Chat Page" width="200" />
+  <img src="assets/screenshots/encrypt.jpg" alt="Encrypt & Decrypt Page" width="200" />
+</p>
+
+### 🌟 Text2Pdf & ViceVersa Page and Word Dash Game Page  
+
+<p>
+  <img src="assets/screenshots/txt2pdf.jpg" alt="Text2pdf Page" width="200" />
+  <img src="assets/screenshots/game.jpg" alt="wordDash game Page" width="200" />
 </p>
 
 
