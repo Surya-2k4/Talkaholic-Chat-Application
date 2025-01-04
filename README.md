@@ -88,7 +88,7 @@ This section houses several powerful features:
 ### 🌟 Theme Selection
 
 <p>
-  <img src="assets/screenshots/theme.jpg" alt="Text2pdf Page" width="200  style="margin-right: 20px;" />
+  <img src="assets/screenshots/theme.png" alt="Text2pdf Page" width="200  style="margin-right: 20px;" />
 
 </p>
 
