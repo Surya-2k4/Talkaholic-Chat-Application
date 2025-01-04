@@ -85,6 +85,12 @@ This section houses several powerful features:
   <img src="assets/screenshots/game.jpg" alt="wordDash game Page" width="200  style="margin-right: 20px;" />
 </p>
 
+### 🌟 Theme Selection
+
+<p>
+  <img src="assets/screenshots/theme.jpg" alt="Text2pdf Page" width="200  style="margin-right: 20px;" />
+
+</p>
 
 
 
