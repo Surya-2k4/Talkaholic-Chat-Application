@@ -1,8 +1,13 @@
-
 # Talkaholic Chat Application
 
 Welcome to the **Talkaholic Chat Application** repository! 🚀  
 This project is a feature-rich and interactive chat application focused on delivering an exceptional user experience through unique and innovative UI elements.
+
+## 👨‍💻 Developed By
+
+- **SURYA N** - 24MCR114  
+- **SELYA DHARSNEE M** - 24MCR097  
+- **SOWMIYA SREE M** - 24MCR105
 
 ## 🌟 Features
 
