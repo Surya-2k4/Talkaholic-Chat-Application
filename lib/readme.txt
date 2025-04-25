@@ -21,6 +21,3 @@ flutterfire configure
 
 2.31.00 writing function for getting data to chatscreen
 
-2.14.30
-
-3.27.000 want to start
